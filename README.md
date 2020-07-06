@@ -2,7 +2,7 @@
 
 Welcome to the Madden Mod Wiki!
 
-This is a collection of information captured from discussions and work at the Madden Modding Community Discord here:  https://discord.gg/d3KRJcx
+This is a collection of information captured from discussions and work of the Madden modding community.
 
 This will include tutorials, look up tables, and other information that will help you get started modding Madden.
 
