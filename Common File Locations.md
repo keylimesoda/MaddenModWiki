@@ -19,3 +19,4 @@
 |TEAMCOLORLIST | content/common/TeamColorList/|
 |TEAM STADIUM TEXTURES | content/worlds/textures/teamspecific/|
 |UNIFORMS | content/characters/player/parts/uniforms|
+|Visor Presets | content/common/presets/characters/player_visor_(visor type)_preset|
