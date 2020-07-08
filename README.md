@@ -10,10 +10,10 @@ If you'd like to add a page, please submit a pull request and we'll review and a
 
 Here are all of the current Madden Modding Discord Servers:
 
-- [MADDEN MODDING COMMUNITY](https://discord.gg/2msdJ4z)
-- [D-105 COLLEGE MOD](https://discord.gg/dDZTaMd)
-- [COLLEGE FOOTBALL FRANCHISE MODDING](https://discord.gg/UkcpPGg)
-- [HIGH SCHOOL MODDING COMMUNITY](https://discord.gg/RRH4AQp)
-- [FRANCHISE FOOTBALL COMMUNITY](https://discord.gg/f3SmqKN)
+- [Madden Modding Community](https://discord.gg/2msdJ4z)
+- [D-105 College Mod](https://discord.gg/dDZTaMd)
+- [College Football Franchise Modding](https://discord.gg/UkcpPGg)
+- [High School Modding Community](https://discord.gg/RRH4AQp)
+- [Franchise Football Community](https://discord.gg/f3SmqKN)
 - [CFL 2K20](https://discord.gg/5bn5UGN)
-- [CHOACHERS MADDEN MODS](https://discord.gg/q4xeBMX)
+- [CHOACHERS Madden Mods](https://discord.gg/q4xeBMX)
